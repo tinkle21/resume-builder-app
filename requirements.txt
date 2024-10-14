@@ -1,2 +1,6 @@
-streamlit
 openai
+streamlit
+docx2txt
+pdfminer.six
+docx
+python-docx
